@@ -13,10 +13,10 @@ A simple web service that listens for  [organization events](https://developer.g
 
 ## *Setup*
 For this application to work you require:
-	* a GitHub account
-	* an organization (you can create one for free)
-	* a repository
-	* A GitHub application
+* a GitHub account
+* an organization (you can create one for free)
+* a repository
+* A GitHub application
 
 **Github App**
  [About apps - GitHub Docs](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps)
