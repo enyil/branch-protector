@@ -4,12 +4,16 @@ A simple web service that listens for  [organization events](https://developer.g
 ## *The following rules are enforced*
 **Repository**
 * Allow merge commits
+* Deny squash merge
 * Squash commits are not allowed
+* Delete branch on merge
 	
 **Main Branch**
-* Pull requests are required to merge to master
+* Pull requests are required to merge to main
 * Do not allow re-writting history
 * Restrictions are applied to administrators
+* Deny branch deletion
+* Deny force push
 
 ## *Setup*
 For this application to work you require:
