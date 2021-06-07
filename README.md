@@ -38,4 +38,5 @@ Once you’ve created your application, you can install it on your organization.
 
 ## *Run*
 setup: cp config.json.example config.json // run this only if you don't have a config.json file already
+
 start: node lib/server.js // this will start your server. It can be run locally or deployed into your cloud of choice.
