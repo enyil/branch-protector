@@ -1,4 +1,5 @@
- branch-protecter
+# branch-protecter
+
 A simple web service that listens for  [organization events](https://developer.github.com/webhooks/#events)  to know when a repository has been created. When the repository is created it automate the protection of the main branch. It notifies the owner with a  [@mention](https://help.github.com/articles/basic-writing-and-formatting-syntax/#mentioning-users-and-teams)  in an issue within the repository that outlines the protections that were added.
 
 ## *The following rules are enforced*
