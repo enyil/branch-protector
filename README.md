@@ -19,8 +19,8 @@ For this application to work you require:
 * A GitHub application
 
 **Github App**
- [About apps - GitHub Docs](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps)
-You can read more about GitHub applications in the url above. The first 	step is to create a GitHub application with the following.
+[About apps - GitHub Docs](https://docs.github.com/en/developers/apps/getting-started-with-apps/about-apps)
+You can read more about GitHub applications in the url above. The first step is to create a GitHub application with the following.
 
 **Repository Permissions:**
 * Administration: read & write
