@@ -1,6 +1,6 @@
 {
-  "app_id":"",
-  "installation_id":"",
-  "webproxy_url": "",
-  "secret":""
+  "app_id":"1",
+  "installation_id":"101",
+  "webproxy_url": "http://someurl.com",
+  "secret":"somesecret"
 }
