@@ -23,11 +23,11 @@ For this application to work you require:
 You can read more about GitHub applications in the url above. The first 	step is to create a GitHub application with the following.
 
 **Repository Permissions:**
-	* Administration: read & write
-	* Contents: read & write
-	* Metadata: read-only
+* Administration: read & write
+* Contents: read & write
+* Metadata: read-only
 
 **Subscribe to events:**
-	* Repository
+* Repository
 
 Once you’ve created your application, you can install it on your organization.
