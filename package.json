@@ -7,7 +7,7 @@
     "setup": "cp config.json.example config.json"
   },
   "dependencies": {
-    "@octokit/auth": "^3.4.1",
+    "@octokit/auth-app": "^3.4.1",
     "@octokit/rest": "^18.5.6",
     "@octokit/webhooks": "^9.6.3",
     "dotenv": "^8.2.0",

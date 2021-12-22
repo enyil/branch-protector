@@ -105,5 +105,6 @@ dist
 
 # App Specific
 
+package-lock.json
 *.pem
 config.json
